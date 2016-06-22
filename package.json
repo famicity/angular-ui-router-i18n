@@ -1,0 +1,19 @@
+{
+  "name": "angular-ui-router-i18n",
+  "version": "1.0.0",
+  "description": "angular-ui-router-i18n ======================",
+  "main": "i18nUrlMatcherFactory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicompte/angular-ui-router-i18n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicompte/angular-ui-router-i18n/issues"
+  },
+  "homepage": "https://github.com/nicompte/angular-ui-router-i18n"
+}
